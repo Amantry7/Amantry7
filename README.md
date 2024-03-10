@@ -1,1 +1,1 @@
-[![Header](hhttps://github.com/Amantry7/amantry7/blob/main/assets/30a1c6cc66c23eb64e3f00f4eda45ee7.jpg)]
+[![Header](https://github.com/Amantry7/amantry7/blob/main/assets/ac27991aa4507594b8da818dea744598.gif)]
