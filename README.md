@@ -4,3 +4,5 @@ I'm Backend develop
 
 ### Langueges and Tools
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python)
+
+![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django)
